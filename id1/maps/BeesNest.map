@@ -2581,3 +2581,43 @@
 "origin" "-1032 440 200"
 "angle" "90"
 }
+// entity 130
+{
+"classname" "info_player_deathmatch"
+"origin" "256 1056 24"
+"angle" "270"
+}
+// entity 131
+{
+"classname" "info_player_deathmatch"
+"origin" "-688 1056 24"
+"angle" "270"
+}
+// entity 132
+{
+"classname" "info_player_deathmatch"
+"origin" "-240 464 24"
+}
+// entity 133
+{
+"classname" "info_player_deathmatch"
+"origin" "176 -48 24"
+"angle" "90"
+}
+// entity 134
+{
+"classname" "info_player_deathmatch"
+"origin" "-672 -64 24"
+"angle" "90"
+}
+// entity 135
+{
+"classname" "info_player_deathmatch"
+"origin" "-272 -288 24"
+"angle" "90"
+}
+// entity 136
+{
+"classname" "weapon_supershotgun"
+"origin" "-272 544 -0"
+}

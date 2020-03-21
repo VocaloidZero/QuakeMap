@@ -3,10 +3,9 @@ Input file: BeesNest.map
 Output file: BeesNest.bsp
 
 ---- LoadMapFile ----
-*** WARNING 06: No info_player_deathmatch entities in level
          1236 faces
           206 brushes
-          130 entities
+          137 entities
            18 unique texnames
            54 texinfo
 
@@ -19,7 +18,7 @@ Processing hull 0...
 ---- CSGFaces ----
          1188 brushfaces
          2679 csgfaces
-         2195 mergedfaces
+         2206 mergedfaces
 ---- SolidBSP ----
          2509 split nodes
          1007 solid leafs
@@ -29,8 +28,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5694 leaffaces
-         5375 nodefaces
+         5707 leaffaces
+         5389 nodefaces
 ---- Portalize ----
          1503 vis leafs
          1503 vis clusters
@@ -38,26 +37,26 @@ Processing hull 0...
 ---- FillOutside ----
          1138 outleafs
 ---- MergeAll ----
-          819 mergefaces
+          821 mergefaces
 ---- SolidBSP ----
-          561 split nodes
-          320 solid leafs
+          558 split nodes
+          317 solid leafs
           219 empty leafs
            23 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         1569 leaffaces
-         1292 nodefaces
+         1575 leaffaces
+         1293 nodefaces
 ---- Portalize ----
           242 vis leafs
           242 vis clusters
-          589 vis portals
+          590 vis portals
 ---- Tjunc ----
-         1207 world edges
-         4544 edge points
-         1200 edges added by tjunctions
+         1208 world edges
+         4550 edge points
+         1206 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -67,19 +66,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote BeesNest.bsp
           625 planes            12500
-         1845 vertexes          22140
-          609 nodes             14616
-           45 texinfo            1800
-         1340 faces             26800
+         1849 vertexes          22188
+          606 nodes             14544
+           44 texinfo            1760
+         1341 faces             26820
          1518 clipnodes         12144
           291 leafs              8148
-         1617 marksurfaces       3234
-         6550 surfedges         26200
-         3276 edges             13104
-           18 textures         105924
+         1623 marksurfaces       3246
+         6560 surfedges         26240
+         3281 edges             13124
+           18 textures         119908
               lightdata             0
               visdata               0
-              entdata            8855
+              entdata            9368
 
-0.888 seconds elapsed
-Peak memory usage: 16303818 (15.5M)
+0.547 seconds elapsed
+Peak memory usage: 16305238 (15.5M)

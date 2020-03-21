@@ -4,14 +4,14 @@ testlevel = 4
 LoadBSPFile: 'BeesNest.bsp'
 BSP is version 29
    242 leafs
-   589 portals
+   590 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 120
+average leafs visible: 121
 c_noclip: 0
-c_chains: 823075
-visdatasize:7164  compressed from 7502
+c_chains: 846189
+visdatasize:7161  compressed from 7502
 Writing BeesNest.bsp as BSP version 29
-  1.9 seconds elapsed
+  1.0 seconds elapsed

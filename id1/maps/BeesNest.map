@@ -4,6 +4,9 @@
 {
 "classname" "worldspawn"
 "wad" "../wads/prototype_1_2.wad;../wads/START.WAD"
+"message" "Bees Nest"
+"property 1" ""
+"sounds" "10"
 // brush 0
 {
 ( 112 -0 -32 ) ( 112 1 -32 ) ( 112 -0 -31 ) city4_6 0 0 0 1 1

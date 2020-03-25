@@ -1709,27 +1709,22 @@
 }
 // entity 3
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-140 1644 108"
+"classname" "light_flame_large_yellow"
+"origin" "-840 360 12"
 }
 // entity 4
 {
 "classname" "light_flame_large_yellow"
-"origin" "-840 360 12"
-}
-// entity 5
-{
-"classname" "light_flame_large_yellow"
 "origin" "-840 536 12"
 }
-// entity 6
+// entity 5
 {
 "classname" "info_teleport_destination"
 "origin" "-720 -208 32"
 "targetname" "bluetele"
 "angle" "90"
 }
-// entity 7
+// entity 6
 {
 "classname" "trigger_teleport"
 "target" "bluetele"
@@ -1743,12 +1738,12 @@
 ( -80 3248 288 ) ( -80 3248 289 ) ( -80 3249 288 ) *teleport 0 0 0 1 1
 }
 }
-// entity 8
+// entity 7
 {
 "classname" "info_player_start"
 "origin" "224 736 24"
 }
-// entity 9
+// entity 8
 {
 "classname" "trigger_teleport"
 "target" "towhitetele"
@@ -1762,441 +1757,346 @@
 ( 288 1248 96 ) ( 288 1376 32 ) ( 288 1248 32 ) __TB_empty 0 0 0 1 1
 }
 }
-// entity 10
+// entity 9
 {
 "classname" "info_teleport_destination"
 "origin" "-192 3168 32"
 "angle" "270"
 "targetname" "tobluetele"
 }
-// entity 11
+// entity 10
 {
 "classname" "light_fluorospark"
 "origin" "-248 520 200"
 }
-// entity 12
+// entity 11
 {
 "classname" "light_torch_small_walltorch"
 "origin" "60 1076 124"
 }
-// entity 13
+// entity 12
 {
 "classname" "light_torch_small_walltorch"
 "origin" "116 1036 124"
 }
-// entity 14
+// entity 13
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-580 1028 124"
 "angle" "180"
 }
-// entity 15
+// entity 14
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-532 1076 124"
 "angle" "-0"
 }
-// entity 16
+// entity 15
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-580 -44 124"
 "angle" "180"
 }
-// entity 17
+// entity 16
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-524 -84 124"
 "angle" "180"
 }
-// entity 18
+// entity 17
 {
 "classname" "light_torch_small_walltorch"
 "origin" "116 -36 124"
 "angle" "-0"
 }
-// entity 19
+// entity 18
 {
 "classname" "light_torch_small_walltorch"
 "origin" "68 -84 124"
 "angle" "180"
 }
-// entity 20
+// entity 19
 {
 "classname" "light"
 "origin" "-200 3112 152"
 }
-// entity 21
+// entity 20
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-196 -260 60"
 "angle" "180"
 }
-// entity 22
+// entity 21
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-348 -268 60"
 }
-// entity 23
+// entity 22
 {
 "classname" "light_flame_large_yellow"
 "origin" "376 616 12"
 "angle" "180"
 }
-// entity 24
+// entity 23
 {
 "classname" "light_flame_large_yellow"
 "origin" "376 472 12"
 "angle" "180"
 }
-// entity 25
+// entity 24
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-276 1260 76"
 }
-// entity 26
+// entity 25
 {
 "classname" "light_torch_small_walltorch"
 "origin" "-108 1260 76"
 }
-// entity 27
+// entity 26
 {
 "classname" "light"
 "origin" "-392 552 232"
 }
-// entity 28
+// entity 27
 {
 "classname" "light"
 "origin" "-88 552 232"
 }
-// entity 29
+// entity 28
 {
 "classname" "light"
 "origin" "-248 760 216"
 }
-// entity 30
+// entity 29
 {
 "classname" "light"
 "origin" "-248 296 216"
 }
+// entity 30
+{
+"classname" "light_fluorospark"
+"origin" "-184 2776 168"
+}
 // entity 31
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-140 1964 108"
+"classname" "light_fluorospark"
+"origin" "-200 2152 168"
 }
 // entity 32
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-140 2284 108"
+"classname" "light_fluoro"
+"origin" "264 -152 248"
 }
 // entity 33
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-140 2604 108"
+"classname" "light_fluoro"
+"origin" "264 88 248"
 }
 // entity 34
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-140 2924 108"
+"classname" "light_fluoro"
+"origin" "264 88 248"
 }
 // entity 35
 {
-"classname" "light_torch_small_walltorch"
-"origin" "-244 1804 108"
+"classname" "light_fluoro"
+"origin" "264 -152 248"
 }
 // entity 36
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-244 2444 108"
-}
-// entity 37
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-244 2764 108"
-}
-// entity 38
-{
-"classname" "light_fluorospark"
-"origin" "-184 2504 168"
-}
-// entity 39
-{
-"classname" "light_fluorospark"
-"origin" "-184 2088 168"
-}
-// entity 40
-{
-"classname" "light_fluoro"
-"origin" "264 -152 248"
-}
-// entity 41
-{
-"classname" "light_fluoro"
-"origin" "264 88 248"
-}
-// entity 42
-{
-"classname" "light_fluoro"
-"origin" "264 88 248"
-}
-// entity 43
-{
-"classname" "light_fluoro"
-"origin" "264 -152 248"
-}
-// entity 44
 {
 "classname" "light_fluoro"
 "origin" "264 536 248"
 }
-// entity 45
+// entity 37
 {
 "classname" "light_fluoro"
 "origin" "264 296 248"
 }
-// entity 46
+// entity 38
 {
 "classname" "light_fluoro"
 "origin" "264 1032 248"
 }
-// entity 47
+// entity 39
 {
 "classname" "light_fluoro"
 "origin" "264 792 248"
 }
-// entity 48
+// entity 40
 {
 "classname" "light_fluoro"
 "origin" "264 1176 248"
 }
-// entity 49
+// entity 41
 {
 "classname" "light"
 "origin" "184 920 136"
 }
-// entity 50
+// entity 42
 {
 "classname" "light"
 "origin" "184 664 136"
 }
-// entity 51
+// entity 43
 {
 "classname" "light"
 "origin" "184 168 136"
 }
-// entity 52
+// entity 44
 {
 "classname" "light"
 "origin" "184 424 136"
 }
-// entity 53
+// entity 45
 {
 "classname" "light"
 "origin" "184 8 136"
 }
-// entity 54
+// entity 46
 {
 "classname" "light"
 "origin" "184 1096 136"
 }
-// entity 55
+// entity 47
 {
 "classname" "light"
 "origin" "-648 1096 152"
 "angle" "-0"
 }
-// entity 56
+// entity 48
 {
 "classname" "light_fluoro"
 "origin" "-760 1176 232"
 "angle" "-0"
 }
-// entity 57
+// entity 49
 {
 "classname" "light_fluoro"
 "origin" "-760 1032 232"
 "angle" "-0"
 }
-// entity 58
+// entity 50
 {
 "classname" "light"
 "origin" "-648 920 152"
 "angle" "-0"
 }
-// entity 59
+// entity 51
 {
 "classname" "light_fluoro"
 "origin" "-760 792 232"
 "angle" "-0"
 }
-// entity 60
+// entity 52
 {
 "classname" "light"
 "origin" "-648 664 152"
 "angle" "-0"
 }
-// entity 61
+// entity 53
 {
 "classname" "light"
 "origin" "-648 424 152"
 "angle" "-0"
 }
-// entity 62
+// entity 54
 {
 "classname" "light_fluoro"
 "origin" "-760 536 232"
 "angle" "-0"
 }
-// entity 63
+// entity 55
 {
 "classname" "light_fluoro"
 "origin" "-760 296 232"
 "angle" "-0"
 }
-// entity 64
+// entity 56
 {
 "classname" "light"
 "origin" "-648 168 152"
 "angle" "-0"
 }
-// entity 65
+// entity 57
 {
 "classname" "light_fluoro"
 "origin" "-760 88 232"
 "angle" "-0"
 }
-// entity 66
+// entity 58
 {
 "classname" "light"
 "origin" "-648 8 152"
 "angle" "-0"
 }
-// entity 67
+// entity 59
 {
 "classname" "light_fluoro"
 "origin" "-760 -152 232"
 "angle" "-0"
 }
-// entity 68
+// entity 60
 {
 "classname" "light_fluoro"
 "origin" "-488 1128 248"
 "angle" "90"
 }
-// entity 69
+// entity 61
 {
 "classname" "light"
 "origin" "-360 1048 136"
 "angle" "90"
 }
-// entity 70
+// entity 62
 {
 "classname" "light_fluoro"
 "origin" "-232 1128 248"
 "angle" "90"
 }
-// entity 71
+// entity 63
 {
 "classname" "light"
 "origin" "-120 1048 136"
 "angle" "90"
 }
-// entity 72
+// entity 64
 {
 "classname" "light_fluoro"
 "origin" "8 1128 248"
 "angle" "90"
 }
-// entity 73
+// entity 65
 {
 "classname" "light_fluoro"
 "origin" "8 -168 248"
 "angle" "270"
 }
-// entity 74
+// entity 66
 {
 "classname" "light"
 "origin" "-120 -88 136"
 "angle" "270"
 }
-// entity 75
+// entity 67
 {
 "classname" "light_fluoro"
 "origin" "-248 -168 248"
 "angle" "270"
 }
-// entity 76
+// entity 68
 {
 "classname" "light"
 "origin" "-360 -88 136"
 "angle" "270"
 }
-// entity 77
+// entity 69
 {
 "classname" "light_fluoro"
 "origin" "-488 -168 248"
 "angle" "270"
 }
-// entity 78
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1228 500 108"
-"angle" "90"
-}
-// entity 79
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1388 396 108"
-"angle" "90"
-}
-// entity 80
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1548 500 108"
-"angle" "90"
-}
-// entity 81
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1708 396 108"
-"angle" "90"
-}
-// entity 82
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1868 500 108"
-"angle" "90"
-}
-// entity 83
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-2028 396 108"
-"angle" "90"
-}
-// entity 84
-{
-"classname" "light_fluorospark"
-"origin" "-2088 456 168"
-"angle" "90"
-}
-// entity 85
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-2188 500 108"
-"angle" "90"
-}
-// entity 86
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-2348 396 108"
-"angle" "90"
-}
-// entity 87
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-2508 500 108"
-"angle" "90"
-}
-// entity 88
+// entity 70
 {
 "classname" "trigger_teleport"
 "target" "greentele"
@@ -2210,73 +2110,7 @@
 ( -2800 432 272 ) ( -2800 432 273 ) ( -2800 433 272 ) *teleport 0 0 0 1 1
 }
 }
-// entity 89
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-324 -652 108"
-"angle" "180"
-}
-// entity 90
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-220 -812 108"
-"angle" "180"
-}
-// entity 91
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-324 -972 108"
-"angle" "180"
-}
-// entity 92
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-220 -1132 108"
-"angle" "180"
-}
-// entity 93
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-324 -1292 108"
-"angle" "180"
-}
-// entity 94
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-220 -1452 108"
-"angle" "180"
-}
-// entity 95
-{
-"classname" "light_fluorospark"
-"origin" "-280 -1512 168"
-"angle" "180"
-}
-// entity 96
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-324 -1612 108"
-"angle" "180"
-}
-// entity 97
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-220 -1772 108"
-"angle" "180"
-}
-// entity 98
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-324 -1932 108"
-"angle" "180"
-}
-// entity 99
-{
-"classname" "light"
-"origin" "-264 -2120 152"
-"angle" "180"
-}
-// entity 100
+// entity 71
 {
 "classname" "trigger_teleport"
 "target" "whitetele"
@@ -2290,7 +2124,7 @@
 ( -128 -2224 272 ) ( -128 -2225 272 ) ( -128 -2224 273 ) *teleport 0 0 0 1 1
 }
 }
-// entity 101
+// entity 72
 {
 "classname" "trigger_teleport"
 "target" "tobluetele"
@@ -2304,21 +2138,21 @@
 ( -688 -256 96 ) ( -688 -256 32 ) ( -688 -384 32 ) *tele01 0 0 0 1 1
 }
 }
-// entity 102
+// entity 73
 {
 "classname" "info_teleport_destination"
 "origin" "256 1184 32"
 "angle" "270"
 "targetname" "whitetele"
 }
-// entity 103
+// entity 74
 {
 "classname" "info_teleport_destination"
 "origin" "-272 -2192 32"
 "angle" "90"
 "targetname" "towhitetele"
 }
-// entity 104
+// entity 75
 {
 "classname" "trigger_teleport"
 "target" "togreentele"
@@ -2332,92 +2166,20 @@
 ( 288 -256 96 ) ( 288 -256 32 ) ( 288 -384 32 ) *tele01 0 0 0 1 1
 }
 }
-// entity 105
+// entity 76
 {
 "classname" "info_teleport_destination"
 "origin" "256 -208 32"
 "angle" "90"
 "targetname" "greentele"
 }
-// entity 106
+// entity 77
 {
 "classname" "info_teleport_destination"
 "origin" "-2736 448 16"
 "targetname" "togreentele"
 }
-// entity 107
-{
-"classname" "light"
-"origin" "-2696 440 152"
-"angle" "90"
-}
-// entity 108
-{
-"classname" "light_torch_small_walltorch"
-"origin" "924 596 108"
-"angle" "270"
-}
-// entity 109
-{
-"classname" "light_torch_small_walltorch"
-"origin" "764 492 108"
-"angle" "270"
-}
-// entity 110
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1084 492 108"
-"angle" "270"
-}
-// entity 111
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1244 596 108"
-"angle" "270"
-}
-// entity 112
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1404 492 108"
-"angle" "270"
-}
-// entity 113
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1564 596 108"
-"angle" "270"
-}
-// entity 114
-{
-"classname" "light_fluorospark"
-"origin" "1624 536 168"
-"angle" "270"
-}
-// entity 115
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1884 596 108"
-"angle" "270"
-}
-// entity 116
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1724 492 108"
-"angle" "270"
-}
-// entity 117
-{
-"classname" "light_torch_small_walltorch"
-"origin" "2044 492 108"
-"angle" "270"
-}
-// entity 118
-{
-"classname" "light"
-"origin" "2232 552 152"
-"angle" "270"
-}
-// entity 119
+// entity 78
 {
 "classname" "trigger_teleport"
 "target" "yellowtele"
@@ -2431,14 +2193,14 @@
 ( 2352 624 368 ) ( 2352 512 64 ) ( 2352 512 368 ) *teleport 0 0 0 1 1
 }
 }
-// entity 120
+// entity 79
 {
 "classname" "info_teleport_destination"
 "origin" "-736 1200 16"
 "angle" "271"
 "targetname" "yellowtele"
 }
-// entity 121
+// entity 80
 {
 "classname" "trigger_teleport"
 "target" "toyellowtele"
@@ -2452,20 +2214,272 @@
 ( -704 1248 96 ) ( -704 1376 32 ) ( -704 1248 32 ) *tele01 0 0 0 1 1
 }
 }
-// entity 122
+// entity 81
 {
 "classname" "info_teleport_destination"
 "origin" "2304 544 16"
 "angle" "180"
 "targetname" "toyellowtele"
 }
-// entity 123
+// entity 82
 {
 "classname" "light"
 "origin" "1432 856 136"
 }
-// entity 124
+// entity 83
 {
 "classname" "light"
-"origin" "1608 856 136"
+"origin" "1736 856 136"
+}
+// entity 84
+{
+"classname" "light"
+"origin" "24 -1336 136"
+}
+// entity 85
+{
+"classname" "light"
+"origin" "24 -1608 136"
+}
+// entity 86
+{
+"classname" "light"
+"origin" "-1912 152 136"
+}
+// entity 87
+{
+"classname" "light"
+"origin" "-2200 152 136"
+}
+// entity 88
+{
+"classname" "light"
+"origin" "-488 2312 136"
+}
+// entity 89
+{
+"classname" "light"
+"origin" "-488 2632 136"
+}
+// entity 90
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-252 2284 60"
+}
+// entity 91
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-252 2356 60"
+}
+// entity 92
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-244 2588 60"
+"angle" "90"
+}
+// entity 93
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-252 2660 60"
+}
+// entity 94
+{
+"classname" "light_fluorospark"
+"origin" "-184 2488 168"
+}
+// entity 95
+{
+"classname" "light_fluorospark"
+"origin" "-200 1928 168"
+}
+// entity 96
+{
+"classname" "light_fluorospark"
+"origin" "-200 1736 168"
+}
+// entity 97
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1708 604 60"
+}
+// entity 98
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1780 604 60"
+}
+// entity 99
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1476 604 60"
+}
+// entity 100
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1404 604 60"
+}
+// entity 101
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-212 -1596 60"
+}
+// entity 102
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-212 -1668 60"
+}
+// entity 103
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-212 -1364 60"
+}
+// entity 104
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-212 -1292 60"
+}
+// entity 105
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-2172 388 60"
+}
+// entity 106
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-2244 388 60"
+}
+// entity 107
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-1868 388 60"
+}
+// entity 108
+{
+"classname" "light_torch_small_walltorch"
+"origin" "-1940 388 60"
+}
+// entity 109
+{
+"classname" "light"
+"origin" "-2664 440 184"
+"angle" "270"
+}
+// entity 110
+{
+"classname" "light_fluorospark"
+"origin" "-2376 440 152"
+"angle" "270"
+}
+// entity 111
+{
+"classname" "light_fluorospark"
+"origin" "-2184 440 152"
+"angle" "270"
+}
+// entity 112
+{
+"classname" "light_fluorospark"
+"origin" "-1960 440 152"
+"angle" "270"
+}
+// entity 113
+{
+"classname" "light_fluorospark"
+"origin" "-1624 424 152"
+"angle" "270"
+}
+// entity 114
+{
+"classname" "light_fluorospark"
+"origin" "-1336 424 152"
+"angle" "270"
+}
+// entity 115
+{
+"classname" "light"
+"origin" "-1000 440 136"
+"angle" "270"
+}
+// entity 116
+{
+"classname" "light"
+"origin" "-280 -2056 184"
+"angle" "-0"
+}
+// entity 117
+{
+"classname" "light_fluorospark"
+"origin" "-280 -1768 152"
+"angle" "-0"
+}
+// entity 118
+{
+"classname" "light_fluorospark"
+"origin" "-280 -1576 152"
+"angle" "-0"
+}
+// entity 119
+{
+"classname" "light_fluorospark"
+"origin" "-280 -1352 152"
+"angle" "-0"
+}
+// entity 120
+{
+"classname" "light_fluorospark"
+"origin" "-264 -1016 152"
+"angle" "-0"
+}
+// entity 121
+{
+"classname" "light_fluorospark"
+"origin" "-264 -728 152"
+"angle" "-0"
+}
+// entity 122
+{
+"classname" "light"
+"origin" "-280 -392 136"
+"angle" "-0"
+}
+// entity 123
+{
+"classname" "light"
+"origin" "2184 536 200"
+"angle" "90"
+}
+// entity 124
+{
+"classname" "light_fluorospark"
+"origin" "1896 536 168"
+"angle" "90"
+}
+// entity 125
+{
+"classname" "light_fluorospark"
+"origin" "1704 536 168"
+"angle" "90"
+}
+// entity 126
+{
+"classname" "light_fluorospark"
+"origin" "1480 536 168"
+"angle" "90"
+}
+// entity 127
+{
+"classname" "light_fluorospark"
+"origin" "1144 552 168"
+"angle" "90"
+}
+// entity 128
+{
+"classname" "light_fluorospark"
+"origin" "856 552 168"
+"angle" "90"
+}
+// entity 129
+{
+"classname" "light"
+"origin" "520 536 152"
+"angle" "90"
 }

@@ -18,7 +18,7 @@ Processing hull 0...
 ---- CSGFaces ----
          1188 brushfaces
          2679 csgfaces
-         2206 mergedfaces
+         2204 mergedfaces
 ---- SolidBSP ----
          2509 split nodes
          1007 solid leafs
@@ -28,8 +28,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5707 leaffaces
-         5389 nodefaces
+         5698 leaffaces
+         5380 nodefaces
 ---- Portalize ----
          1503 vis leafs
          1503 vis clusters
@@ -78,7 +78,7 @@ Wrote BeesNest.bsp
            18 textures         119908
               lightdata             0
               visdata               0
-              entdata            9368
+              entdata            9420
 
-0.547 seconds elapsed
+0.532 seconds elapsed
 Peak memory usage: 16305238 (15.5M)

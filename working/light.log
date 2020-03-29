@@ -5,30 +5,30 @@ LoadBSPFile: 'BeesNest.bsp'
 BSP is version 29
 --- LoadEntities ---
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
-162 entities read, 133 are lights.
+166 entities read, 137 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	1567 solid faces
+	1951 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 133 initial lights
-SetupLights: 133 after surface lights
-SetupLights: 133 after jittering
+SetupLights: 137 initial lights
+SetupLights: 137 after surface lights
+SetupLights: 137 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 133 lights 0 suns in use.
+Final count: 137 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 89479
+lightdatasize: 98966
 0 switchable light styles (32 max)
 Writing BeesNest.bsp as BSP version 29
-0.338 seconds elapsed
+0.654 seconds elapsed
 
 stats:
-3.150175 lights tested, 2.600021 hits per sample point
+3.282444 lights tested, 2.626860 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

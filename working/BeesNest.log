@@ -3,9 +3,9 @@ Input file: BeesNest.map
 Output file: BeesNest.bsp
 
 ---- LoadMapFile ----
-         1571 faces
-          259 brushes
-          162 entities
+         1801 faces
+          282 brushes
+          166 entities
            17 unique texnames
            52 texinfo
 
@@ -13,50 +13,50 @@ Opened WAD: ../wads/prototype_1_2.wad
 Opened WAD: ../wads/START.WAD
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          251 brushes
-          435 planes
+          274 brushes
+          586 planes
 ---- CSGFaces ----
-         1523 brushfaces
-         3267 csgfaces
-         2596 mergedfaces
+         1753 brushfaces
+         3718 csgfaces
+         2977 mergedfaces
 ---- SolidBSP ----
-         2965 split nodes
-         1211 solid leafs
-         1728 empty leafs
-           27 water leafs
+         3397 split nodes
+         1300 solid leafs
+         2047 empty leafs
+           51 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         6600 leaffaces
-         6217 nodefaces
+         7470 leaffaces
+         6922 nodefaces
 ---- Portalize ----
-         1755 vis leafs
-         1755 vis clusters
-         4954 vis portals
+         2098 vis leafs
+         2098 vis clusters
+         6224 vis portals
 ---- FillOutside ----
-         1294 outleafs
+         1332 outleafs
 ---- MergeAll ----
-         1100 mergefaces
+         1472 mergefaces
 ---- SolidBSP ----
-          720 split nodes
-          397 solid leafs
-          301 empty leafs
-           23 water leafs
+          974 split nodes
+          459 solid leafs
+          481 empty leafs
+           35 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         1959 leaffaces
-         1617 nodefaces
+         2686 leaffaces
+         2043 nodefaces
 ---- Portalize ----
-          324 vis leafs
-          324 vis clusters
-          820 vis portals
+          516 vis leafs
+          516 vis clusters
+         1572 vis portals
 ---- Tjunc ----
-         1625 world edges
-         5785 edge points
-         1389 edges added by tjunctions
+         2175 world edges
+         7386 edge points
+         1793 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -65,20 +65,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote BeesNest.bsp
-          933 planes            18660
-         2276 vertexes          27312
-          768 nodes             18432
+         1452 planes            29040
+         2855 vertexes          34260
+         1022 nodes             24528
            43 texinfo            1720
-         1665 faces             33300
-         1828 clipnodes         14624
-          373 leafs             10444
-         2007 marksurfaces       4014
-         8058 surfedges         32232
-         4030 edges             16120
+         2091 faces             41820
+         2696 clipnodes         21568
+          565 leafs             15820
+         2734 marksurfaces       5468
+        10214 surfedges         40856
+         5108 edges             20432
            17 textures         118952
               lightdata             0
               visdata               0
-              entdata           10809
+              entdata           11115
 
-0.701 seconds elapsed
-Peak memory usage: 19776766 (18.9M)
+1.056 seconds elapsed
+Peak memory usage: 23422628 (22.3M)

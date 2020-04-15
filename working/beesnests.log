@@ -5,7 +5,7 @@ Output file: beesnests.bsp
 ---- LoadMapFile ----
          2519 faces
           411 brushes
-          174 entities
+          177 entities
            17 unique texnames
            56 texinfo
 
@@ -77,7 +77,7 @@ Wrote beesnests.bsp
            17 textures         129408
               lightdata             0
               visdata               0
-              entdata           12371
+              entdata           12521
 
-0.817 seconds elapsed
-Peak memory usage: 25423724 (24.2M)
+1.856 seconds elapsed
+Peak memory usage: 25423868 (24.2M)

@@ -5,7 +5,7 @@ LoadBSPFile: 'beesnests.bsp'
 BSP is version 29
 --- LoadEntities ---
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
-174 entities read, 145 are lights.
+177 entities read, 145 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
@@ -26,7 +26,7 @@ Lighting Completed.
 lightdatasize: 96286
 0 switchable light styles (32 max)
 Writing beesnests.bsp as BSP version 29
-0.323 seconds elapsed
+0.817 seconds elapsed
 
 stats:
 4.176267 lights tested, 3.298032 hits per sample point

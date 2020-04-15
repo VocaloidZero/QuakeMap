@@ -4480,13 +4480,13 @@
 // entity 126
 {
 "classname" "info_player_deathmatch"
-"origin" "632 336 24"
+"origin" "632 408 24"
 "angle" "91"
 }
 // entity 127
 {
 "classname" "info_player_deathmatch"
-"origin" "16 1512 24"
+"origin" "-56 1512 24"
 "angle" "180"
 }
 // entity 128
@@ -4498,7 +4498,7 @@
 // entity 129
 {
 "classname" "info_player_deathmatch"
-"origin" "-496 -496 24"
+"origin" "-432 -488 24"
 "angle" "-0"
 }
 // entity 130

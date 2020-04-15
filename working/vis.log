@@ -11,7 +11,7 @@ Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
 average leafs visible: 290
 c_noclip: 0
-c_chains: 27265182
+c_chains: 27283940
 visdatasize:35282  compressed from 42413
 Writing beesnests.bsp as BSP version 29
- 34.4 seconds elapsed
+ 72.5 seconds elapsed
